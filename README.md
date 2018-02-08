@@ -3,3 +3,7 @@ This is my first repo.
 
 
 My name is Jordan.
+
+
+
+I live in Minneapolis.
